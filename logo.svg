@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" fill="none" stroke="#AE97E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- original flowing continuous-line brain, our own drawing -->
+  <path d="M68 88 C64 80 58 76 51 76 C37 77 27 69 28 58 C19 60 11 53 14 44 C8 40 10 29 19 27 C17 18 26 12 34 17 C35 8 48 6 54 15 C61 7 75 9 77 19 C88 15 98 24 93 34 C102 39 101 51 90 53 C95 61 87 70 78 65 C81 73 74 82 68 88 Z"/>
+  <path d="M39 23c-5-6 4-12 9-6 3 4-2 9-7 7"/>
+  <path d="M58 18c-4-7 8-11 11-3 2 5-5 9-9 6"/>
+  <path d="M46 52c9-8 19 3 10 11-6 5 2 13 10 8"/>
+  <path d="M44 45c-7 4-5 13 3 13"/>
+  <path d="M30 42c6 1 7 9 1 12"/>
+  <path d="M66 65c2 10-2 17-7 23"/>
+</svg>
